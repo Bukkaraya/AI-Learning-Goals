@@ -14,7 +14,7 @@
 ## - Week 3 (12th Feb - 18th Feb):
 - Artificial Intelligence: A modern approach [Part 2]
 - CS 540 Machine Learning (Online videos) [Nando de Freitas]
-- Reinforcement Learning (Udacity Course)
+- Reinforcement Learning (David Silver or CS294)
 
 ## - Week 4 (19th Feb - 25th Feb):
 - Hallite II Challenge
