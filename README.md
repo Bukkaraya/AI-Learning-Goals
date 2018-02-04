@@ -6,10 +6,10 @@
 - [ ] Introduction to AI (Udacity Course)
 
 ## - Week 2 (5th Feb - 11th Feb):
-- Deep Learning (Udacity Course)
-- Artificial Intelligence: A modern approach [Part 1]
-- CS 188 (Youtube videos)
-- Intro to Machine Learning (Udacity Course)
+- [ ] Deep Learning (Udacity Course)
+- [ ] Artificial Intelligence: A modern approach [Part 1]
+- [ ] CS 188 (Youtube videos)
+- [X] Intro to Machine Learning (Udacity Course)
 
 ## - Week 3 (12th Feb - 18th Feb):
 - Artificial Intelligence: A modern approach [Part 2]
