@@ -32,13 +32,13 @@
 - Papers [1 - 2 papers]
 
 ## - Week 7 (12th March - 18th March):
-- Probabilistic Graphical Models Specialization [Part 2]
+- Kaggle Competitions
 - Deep Learning (Ian Goodfellow) [Part 2]
 - Papers [1 - 2 papers]
 - Backlogs
 
 ## - Week 8 (19th March - 25th March):
-- Probabilistic Graphical Models Specialization [Part 3]
+- Project
 - Deep Learning (Ian Goodfellow) [Part 3] (If not finished)
 - Backlogs
 
