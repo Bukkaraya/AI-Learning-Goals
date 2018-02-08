@@ -13,7 +13,7 @@
 
 ## - Week 3 (12th Feb - 18th Feb):
 - Artificial Intelligence: A modern approach [Part 2]
-- CS 540 Machine Learning (Online videos) [Nando de Freitas]
+- Fast.ai (Online course Part 2)
 - Reinforcement Learning (David Silver or CS294)
 
 ## - Week 4 (19th Feb - 25th Feb):
