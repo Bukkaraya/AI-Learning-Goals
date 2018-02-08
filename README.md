@@ -1,14 +1,14 @@
 # AI Learning Goals
 
 ## - Week 1 (29th Jan to 4th Feb):
-- [ ] Naked Statistics (Charles Wheelan)
+- [X] Naked Statistics (Charles Wheelan)
 - [X] Fast.ai (Online Course Part 1)
-- [ ] Introduction to AI (Udacity Course)
+- [ ] Introduction to AI (Udacity Course) [60% complete]
 
 ## - Week 2 (5th Feb - 11th Feb):
 - [X] Deep Learning (Udacity Course)
 - [ ] Artificial Intelligence: A modern approach [Part 1]
-- [ ] CS 188 (Youtube videos)
+- [X] CS 188 (Youtube videos)
 - [X] Intro to Machine Learning (Udacity Course)
 
 ## - Week 3 (12th Feb - 18th Feb):
