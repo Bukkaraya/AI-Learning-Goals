@@ -12,7 +12,7 @@
 
 ## - Week 3 (12th Feb - 18th Feb):
 - [ ] Deep Learning (Ian Goodfellow) [Part 1]
-- [ ] CS231N Stanford [With Assignments]
+- [X] CS231N Stanford [With Assignments]
 - [ ] Reinforcement Learning (David Silver or CS294)
 
 ## - Week 4 (19th Feb - 25th Feb):
