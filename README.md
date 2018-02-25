@@ -11,34 +11,32 @@
 - [X] Intro to Machine Learning (Udacity Course)
 
 ## - Week 3 (12th Feb - 18th Feb):
-- [ ] Deep Learning (Ian Goodfellow) [Part 1]
+- [X] Deep Learning (Ian Goodfellow) [Part 1]
 - [X] CS231N Stanford [With Assignments]
-- [ ] Reinforcement Learning (David Silver or CS294)
+- [ ] Reinforcement Learning (David Silver or CS294) [80% Done]
 
 ## - Week 4 (19th Feb - 25th Feb):
-- [ ] Hallite II Challenge
-- [ ] Project with NLTK
-- [ ] Read Papers [3 - 4 papers]
+Took the week off to learn more about
+- Probability Theory
+- Information Theory
 
 ## - Week 5 (26th Feb - 4th March):
-- [ ] Deep Learning (Ian Goodfellow) [Part 2]
 - [ ] Neural Networks for Machine Learning (Hinton) [Coursera Course]
 - [ ] Read Papers [1 - 2 papers]
 
 ## - Week 6 (5th March - 11th March):
 - [ ] Probabilistic Graphical Models Specialization
-- [ ] Artificial Intelligence: A modern approach [Part 1]
+- [ ] Deep Learning (Ian Goodfellow) [Part 2]
 - [ ] Papers [1 - 2 papers]
 
 ## - Week 7 (12th March - 18th March):
 - [ ] Kaggle Competitions
-- [ ] Artificial Intelligence: A modern approach [Part 2]
+- [ ] Deep Learning (Ian Goodfellow) [Part 3]
 - [ ] Papers [1 - 2 papers]
 - Backlogs
 
 ## - Week 8 (19th March - 25th March):
 - [ ] Project
-- [ ] Artificial Intelligence: A modern approach [Part 3]
 - Backlogs
 
 ## - Week 9 (26th March - April 1st):
