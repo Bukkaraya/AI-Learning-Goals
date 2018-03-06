@@ -21,12 +21,10 @@ Took the week off to learn more about
 - Information Theory
 
 ## - Week 5 (26th Feb - 4th March):
-- [ ] Neural Networks for Machine Learning (Hinton) [Coursera Course]
-- [ ] Read Papers [1 - 2 papers]
+- [X] Read Papers [1 - 2 papers] (Batch Normalization and Training very Deep Networks)
 
 ## - Week 6 (5th March - 11th March):
-- [ ] Probabilistic Graphical Models Specialization
-- [ ] Deep Learning (Ian Goodfellow) [Part 2]
+- [ ] Think Stats [Allen B. Downey]
 - [ ] Papers [1 - 2 papers]
 
 ## - Week 7 (12th March - 18th March):
@@ -49,5 +47,4 @@ Took the week off to learn more about
 - Introduction to Statistical Learning
 - Elementary Statistical Learning
 - Linear Algebra (MIT videos)
-- Think Stats [Allen B. Downey]
 - Think Bayes [Allen B. Downey]
