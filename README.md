@@ -24,12 +24,10 @@ Took the week off to learn more about
 - [X] Read Papers [1 - 2 papers] (Batch Normalization and Training very Deep Networks)
 
 ## - Week 6 (5th March - 11th March):
-- [ ] Think Stats [Allen B. Downey]
-- [ ] Papers [1 - 2 papers]
+- [X] Think Stats [Allen B. Downey]
 
 ## - Week 7 (12th March - 18th March):
-- [ ] Kaggle Competitions
-- [ ] Deep Learning (Ian Goodfellow) [Part 3]
+- [ ] Introduction to Statistical Learning
 - [ ] Papers [1 - 2 papers]
 - Backlogs
 
