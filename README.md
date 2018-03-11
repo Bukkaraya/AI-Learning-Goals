@@ -25,7 +25,7 @@ Took the week off to learn more about
 ## - Week 5 (26th Feb - 4th March): 
 - [X] Read Papers [1 - 2 papers] (Batch Normalization and Training very Deep Networks)
 
-### I think at this point I realised that I did not have enough mathematical knowledge to go deeper into the subject. So I am taking a deviation from the original path and taking some time to develop the mathematical knowledge
+##### I think at this point I realised that I did not have enough mathematical knowledge to go deeper into the subject. So I am taking a deviation from the original path and taking some time to develop the mathematical knowledge.
 
 ## - Week 6 (5th March - 11th March):
 - [X] Think Stats [Allen B. Downey]
