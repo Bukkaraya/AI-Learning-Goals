@@ -19,13 +19,13 @@
 Took the week off to learn more about
 - Probability Theory
 - Information Theory
-Also implemented
-- Char RNN (Karpathy's Blog)
+- Implemented Char RNN (Karpathy's Blog)
 - Deep Learning (Ian Goodfellow)
-
 
 ## - Week 5 (26th Feb - 4th March): 
 - [X] Read Papers [1 - 2 papers] (Batch Normalization and Training very Deep Networks)
+
+### I think at this point I realised that I did not have enough mathematical knowledge to go deeper into the subject. So I am taking a deviation from the original path and taking some time to develop the mathematical knowledge
 
 ## - Week 6 (5th March - 11th March):
 - [X] Think Stats [Allen B. Downey]
