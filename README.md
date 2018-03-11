@@ -19,26 +19,28 @@
 Took the week off to learn more about
 - Probability Theory
 - Information Theory
+Also implemented
+- Char RNN (Karpathy's Blog)
+- Deep Learning (Ian Goodfellow)
 
-## - Week 5 (26th Feb - 4th March):
+
+## - Week 5 (26th Feb - 4th March): 
 - [X] Read Papers [1 - 2 papers] (Batch Normalization and Training very Deep Networks)
 
 ## - Week 6 (5th March - 11th March):
 - [X] Think Stats [Allen B. Downey]
 
 ## - Week 7 (12th March - 18th March):
-- [ ] Introduction to Statistical Learning
-- [ ] Papers [1 - 2 papers]
-- Backlogs
+- [ ] Introduction to Statistical Learning [Part 1]
+- [ ] Art of R Programming
+- Possible learn Julia
 
 ## - Week 8 (19th March - 25th March):
-- [ ] Project
-- Backlogs
+- [ ] Introduction to Statistical Learning [Part 2]
+- [ ] Probabilistic Graphical Models Course
 
 ## - Week 9 (26th March - April 1st):
 - Backlogs
-- [ ] Papers [6 - 8 papers]
-- [ ] Artificial Intelligence: A modern approach [Part 4]
 
 
 ### If time permits:
