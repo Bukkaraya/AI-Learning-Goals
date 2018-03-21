@@ -31,20 +31,11 @@ Took the week off to learn more about
 - [X] Think Stats [Allen B. Downey]
 
 ## - Week 7 (12th March - 18th March):
-- [ ] Introduction to Statistical Learning [Part 1]
-- [ ] Art of R Programming
-- Possible learn Julia
+- [X] Introduction to Statistical Learning
 
 ## - Week 8 (19th March - 25th March):
-- [ ] Introduction to Statistical Learning [Part 2]
-- [ ] Probabilistic Graphical Models Course
+- [ ] All of Statistics (Wasserman)
 
 ## - Week 9 (26th March - April 1st):
-- Backlogs
-
-
-### If time permits:
-- Introduction to Statistical Learning
-- Elementary Statistical Learning
-- Linear Algebra (MIT videos)
-- Think Bayes [Allen B. Downey]
+- Backlogs 
+- Introduction to Probability (Bertsekas) [Part 1] 
