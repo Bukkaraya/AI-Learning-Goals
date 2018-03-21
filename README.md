@@ -38,4 +38,28 @@ Took the week off to learn more about
 
 ## - Week 9 (26th March - April 1st):
 - Backlogs 
-- Introduction to Probability (Bertsekas) [Part 1] 
+
+### Going to get rid of weekly system from this point and use steps (Which will probably be equivalent to a week's worth of work)
+
+## Step 1
+- [ ] Introduction to Probability **[Bertsekas]**
+- [ ] Any good book on R
+- Possibly Learn Julia
+
+## Step 2
+- [ ] Linear Algebra Book **[Strang]**
+
+## Step 3
+- [ ] Elements of Statistical Learning
+- [ ] The Art of Computer Programming **[Volume 1]**
+
+## Step 4
+- [ ] Mathematical Analysis **[Rudin]**
+- [ ] The Art of Computer Programming **[Volume 2]**
+
+## Step 5
+- [ ] Convex Optimization **[Boyd]**
+- [ ] How to Solve It **[Polya]**
+
+## Step 5
+- [ ] Information Theory **[Mackay]**
